@@ -1,0 +1,23 @@
+# Entorno e IA Local
+AGENTS.md
+.agents/
+.prompts/
+*.local.md
+.cursorrules
+
+# Archivos de entorno y credenciales
+.env
+.env.local
+*.pem
+
+# Archivos compilados y dependencias según el lenguaje
+node_modules/
+__pycache__/
+*.pyc
+bin/
+obj/
+
+# Sistemas operativos e IDEs
+.DS_Store
+.vscode/
+.idea/
