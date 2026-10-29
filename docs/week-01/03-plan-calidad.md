@@ -6,7 +6,7 @@
     - Frontend & UI Mockups.
     - Backend / Lógica ligera & Scripts.
     - Analista QA, Casos de Prueba & Trazabilidad.
-    - Documentador Principal & Redactor.
+    - Documentador Principal & Redactor. - Lucas Jara
 - **Mecanismos de calidad:**
     - Revisiones semanales formativas.
     - Políticas de ramas (`feature/`, PR obligatorio, aprobación previa a merge).
